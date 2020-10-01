@@ -1,5 +1,6 @@
 # Contributors
 -[Al Fikri] (https://github.com/Al-User12)
+-[Sega] (https://github.com/segaradika)
 -[Audie Mendaros](https://github.com/taroken6)
 - [Will Guo]
 -[Tommy Deliso](https://github.com/tdeliso)
